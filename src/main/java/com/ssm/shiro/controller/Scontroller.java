@@ -12,7 +12,12 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.ssm.shiro.entity.Entity;
-
+/**
+ * 
+ *  @author wangshang
+ * 	@date 2018年6月19日/下午3:16:28  
+ * 	@类作用: controller层
+ */
 @Controller
 @RequestMapping("/user") 
 public class Scontroller {
